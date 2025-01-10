@@ -28,3 +28,20 @@ print(university.lower()) # i expect this to print "aasTU"
 # example:-
 dialogue = "have u seen her" # i specified a string in a variable called dialogue
 print(dialogue.find("seen")) # i expect this to print "6"
+
+## 7 str-index is a string method that find the nearest vowel letter in the given variable 
+# example:-
+exercise = "push up" # a string is specied in a variable called exercise
+print(exercise.index("up")) # i expect this to print 5
+
+## 8 str-startswith is a string method that tell us in what word our variable starts
+# example:-
+sayings = "comparison is the thief of joy" # a string is specified by a variable called sayings
+print(sayings.startswith("comparison")) # i expect "true" to be printed
+
+## 9 str-endswith is a string methods that tell us in what word our variable ends with
+# example:-
+full_name = "yishak alelign admasu" # i specified a string in variable called full name
+print(full_name.endswith("alelign")) # i expect this to print "false"
+
+
