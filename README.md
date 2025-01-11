@@ -43,5 +43,20 @@ print(sayings.startswith("comparison")) # i expect "true" to be printed
 # example:-
 full_name = "yishak alelign admasu" # i specified a string in variable called full name
 print(full_name.endswith("alelign")) # i expect this to print "false"
+ 
+## 10 str-count is a string method that count the given letter or word in the variable
+# example:-
+movie = "the usual suspect" # i specified a string in variable called movie
+print(movie.count("s")) # "3" is exoected to be printed
+
+## 11 str-replace is a string method that replaces all occurrences of substring with another substring
+# example:-
+color = "blue & black" # string is specified by a variable called color
+print(color.replace("black", "yellow")) # "blue & yellow" is expected to be printed
+
+## 12 str-strip is a string method that removes leading whitespace(or specified characters ) from the string
+# example:-
+text = "string-metods" # a string is specified in variable callled text
+print(text.strip("-)) # "stringmethods" is expected to be printed
 
 

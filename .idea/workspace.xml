@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3c1b5c-d853-4cb8-b37c-622913409625" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/endswith.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startswith.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -32,13 +31,16 @@
   "keyToString": {
     "Python.assignment.executor": "Run",
     "Python.capitalize.executor": "Run",
+    "Python.count.executor": "Run",
     "Python.endswith.executor": "Run",
     "Python.find.executor": "Run",
     "Python.index.executor": "Run",
     "Python.index.py.executor": "Run",
     "Python.isupper.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.replace.executor": "Run",
     "Python.startswith.executor": "Run",
+    "Python.strip.executor": "Run",
     "Python.swapcase.executor": "Run",
     "Python.title.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
