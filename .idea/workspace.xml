@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3c1b5c-d853-4cb8-b37c-622913409625" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -27,33 +24,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.assignment.executor": "Run",
-    "Python.capitalize.executor": "Run",
-    "Python.count.executor": "Run",
-    "Python.endswith.executor": "Run",
-    "Python.find.executor": "Run",
-    "Python.index.executor": "Run",
-    "Python.index.py.executor": "Run",
-    "Python.isupper.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.replace.executor": "Run",
-    "Python.startswith.executor": "Run",
-    "Python.strip.executor": "Run",
-    "Python.swapcase.executor": "Run",
-    "Python.title.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/python assignment/string methods",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "settings.editor.splitter.proportion": "0.2925586"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.capitalize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.endswith.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find.executor&quot;: &quot;Run&quot;,
+    &quot;Python.index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.index.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isupper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.replace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.startswith.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swapcase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.title.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python assignment/string methods&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.2925586&quot;
   }
-}]]></component>
+}</component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySaveCallSignatures" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.index">
     <configuration name="index" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
