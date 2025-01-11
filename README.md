@@ -59,4 +59,17 @@ print(color.replace("black", "yellow")) # "blue & yellow" is expected to be prin
 text = "string-methods" # a string is specified in variable callled text
 print(text.strip("-)) # "stringmethods" is expected to be printed
 
+## 13 str-lstrip is a string method that removes leading whitespace or specified character from the string
+# example:-
+phone = " infinix " # i specified a string in a variable called phone 
+print(phone.lstrip()) # this will print "infinix "
 
+## 14 str-rstrip is a string methods that removes trailing whitespace or specified character in a string
+# example:-
+word = " paper cut " # i specified a string in to variable called word
+print(word.rstrip()) # this will print " paper cut"
+
+## 15 str-split is a string method that split the string in to  substring based on delimiter.
+# example:-
+object = "charger box" # a string is specified in a variable called object
+print(object.split()) # ['charger' , 'box'] is expected to be printed

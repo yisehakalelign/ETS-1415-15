@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3c1b5c-d853-4cb8-b37c-622913409625" name="Changes" comment="" />
+    <list default="true" id="7f3c1b5c-d853-4cb8-b37c-622913409625" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lstrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rstrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +36,11 @@
     &quot;Python.index.executor&quot;: &quot;Run&quot;,
     &quot;Python.index.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.isupper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lstrip.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.replace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rstrip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.split.executor&quot;: &quot;Run&quot;,
     &quot;Python.startswith.executor&quot;: &quot;Run&quot;,
     &quot;Python.strip.executor&quot;: &quot;Run&quot;,
     &quot;Python.swapcase.executor&quot;: &quot;Run&quot;,
