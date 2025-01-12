@@ -73,3 +73,18 @@ print(word.rstrip()) # this will print " paper cut"
 # example:-
 object = "charger box" # a string is specified in a variable called object
 print(object.split()) # ['charger' , 'box'] is expected to be printed
+
+## 16 str-join is a string method that joins elements of an iterable in to a single string using the string as operator
+# example:-
+notification = ["activate", "windows"] # a string is specified in a variable called notification
+print(" ".join(notification)) # "activate windows" is going to be printed
+
+## 17 str-isalpha is a string method that checks all character in a string are alphabetic(letters).
+# example:-
+actor = "will smith" # a string is specified in a variable called actor
+print(actor.isalpha()) # true is going to be printed
+
+## 18 str-isdigit is a sting method that check all characters in a string are digits
+phone_number = "0970776s04" # a string is specified in a variable called phone number
+print(phone_number.isdigit()) # "false" is going to be printed because the string contain letter "s".
+
