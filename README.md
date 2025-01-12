@@ -88,3 +88,17 @@ print(actor.isalpha()) # true is going to be printed
 phone_number = "0970776s04" # a string is specified in a variable called phone number
 print(phone_number.isdigit()) # "false" is going to be printed because the string contain letter "s".
 
+## 19 str-isalnum is a string method that checks all character in a string is alphanumeric(letters and digits)
+# example:-
+text = "123!bcd" # a string is specified in a variable called text
+print(text.isalnum()) # false is expected to be printed 
+
+## 20 str-isspace is a string method that checks if all characters in the string are whitespace
+# example:-
+event = " " # a string is specified in a variable called event
+print(event.isspace()) # true is expected to be printed
+
+## 21 str-format is a string method that formats a string by replacing placeholders {} with specified values
+# example:-
+word = "hi {}" # a string is specified in a string called word 
+print(word.format("there)) # hi there is expected to be printed

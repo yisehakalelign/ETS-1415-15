@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3c1b5c-d853-4cb8-b37c-622913409625" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/isalpha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isdigit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isalnum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isspace.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -34,10 +34,13 @@
     "Python.count.executor": "Run",
     "Python.endswith.executor": "Run",
     "Python.find.executor": "Run",
+    "Python.format.executor": "Run",
     "Python.index.executor": "Run",
     "Python.index.py.executor": "Run",
+    "Python.isalnum.executor": "Run",
     "Python.isalpha.executor": "Run",
     "Python.isdigit.executor": "Run",
+    "Python.isspace.executor": "Run",
     "Python.isupper.executor": "Run",
     "Python.join.executor": "Run",
     "Python.lstrip.executor": "Run",
