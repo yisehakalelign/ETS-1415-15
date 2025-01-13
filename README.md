@@ -102,3 +102,23 @@ print(event.isspace()) # true is expected to be printed
 # example:-
 word = "hi {}" # a string is specified in a string called word 
 print(word.format("there)) # hi there is expected to be printed
+
+## 22 str-stringslen is a string method that tell us about the length of a characters
+# example:-
+
+
+
+## 23 str-encode is a string method that encodes a string in to bytes using a specified encoding 
+# example:-
+skill "communication" # a string is specified in to variable called skill
+print(skill.encode()) # this will print the given string by encoding it
+
+## 24 str-lower is a string method that converts all characters in to lower cases
+# example:-
+color = "GREEN" # a string is specified in a variable called color
+print(color.lower()) # this will print "green"
+
+## 25 str-upper is a string method that converts all characters in to upper cases
+# example:- 
+character = "over thinker" # a string is specified in a variable called character
+print(character.upper()) # this will print "OVER THINKER"

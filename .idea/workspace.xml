@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3c1b5c-d853-4cb8-b37c-622913409625" name="Changes" comment="" />
+    <list default="true" id="7f3c1b5c-d853-4cb8-b37c-622913409625" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/encode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/len.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +33,7 @@
     "Python.assignment.executor": "Run",
     "Python.capitalize.executor": "Run",
     "Python.count.executor": "Run",
+    "Python.encode.executor": "Run",
     "Python.endswith.executor": "Run",
     "Python.find.executor": "Run",
     "Python.format.executor": "Run",
@@ -37,15 +45,19 @@
     "Python.isspace.executor": "Run",
     "Python.isupper.executor": "Run",
     "Python.join.executor": "Run",
+    "Python.len.executor": "Run",
+    "Python.lower.executor": "Run",
     "Python.lstrip.executor": "Run",
     "Python.main.executor": "Run",
     "Python.replace.executor": "Run",
     "Python.rstrip.executor": "Run",
     "Python.split.executor": "Run",
     "Python.startswith.executor": "Run",
+    "Python.stringslen.executor": "Run",
     "Python.strip.executor": "Run",
     "Python.swapcase.executor": "Run",
     "Python.title.executor": "Run",
+    "Python.upper.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/python assignment/string methods",
