@@ -103,9 +103,10 @@ print(event.isspace()) # true is expected to be printed
 word = "hi {}" # a string is specified in a string called word 
 print(word.format("there)) # hi there is expected to be printed
 
-## 22 str-stringslen is a string method that tell us about the length of a characters
+## 22 str-len is a string method that tell us about the length of a characters
 # example:-
-
+type = "coder" # specified a string in to variable
+print(type.--len--()) # this will print number "4"
 
 
 ## 23 str-encode is a string method that encodes a string in to bytes using a specified encoding 
