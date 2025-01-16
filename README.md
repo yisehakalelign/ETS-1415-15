@@ -123,3 +123,8 @@ print(color.lower()) # this will print "green"
 # example:- 
 character = "over thinker" # a string is specified in a variable called character
 print(character.upper()) # this will print "OVER THINKER"
+
+## 26 str-fstrings is a string method that embedded a given word to the first word
+# example:-
+title = "days are a head of me" # a string is specified in a variable called title
+print(f"brightest{title}") # brightest days are a head of me is expected to be printed
