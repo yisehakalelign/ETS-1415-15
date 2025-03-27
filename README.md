@@ -1,5 +1,5 @@
  ## 1str.lower: is string method that changes the given string into lower case
-# exammple:-
+# example:-
 country = "ETHIOPIA"
 print(country.lower()) # i expect this code to print ETHIOPIA in lower case
 
