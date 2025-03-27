@@ -14,3 +14,17 @@ phyton = "string methods"
 print(phyton.title()) # i excpect this string to print "String Methods"
 
 
+ ## 4 str_capitalize is a string method that capitalize the given variable
+# example:- 
+person = "yared" # i specified a string by a variable called person
+print(person.capitalize()) # i expect to be be printed the word "Yared"
+
+ ## 5 str_swapcase is a string method that swap the gven word 
+# example:-
+university = "AAStu" # i specified a string by a variable called university
+print(university.lower()) # i expect this to print "aasTU"
+
+ ## 6 str-find is a string method that find the nearest vowel letter in the given variable
+# example:-
+dialogue = "have u seen her" # i specified a string in a variable called dialogue
+print(dialogue.find("seen")) # i expect this to print "6"
