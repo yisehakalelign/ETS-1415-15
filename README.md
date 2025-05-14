@@ -33,7 +33,7 @@ print(sort) # the last element in the list will be removed
 # example:-
 browser = ['chrome'. 'phoneix', 'opera'] # variable is specified in a list
 browser.remove("opera") # a list method called remove is used
-print(browser) # "opera" is expected to be removed from the list
+print(browser) # "opera" is expected to be removed from the list 
 
 ## 7 slicing() :- Accessing sub-parts of a list.
 # example:-
@@ -45,4 +45,4 @@ print(subset) # this will print ['pop']
 # example:-
 number = ['2', '1', '4', '3'] #  variable is specified in a list
 number.sort() # a list method called sorting is used
-print(number) # this will print the list by sorting it
+print(number) # this will print the list by sorting it. .
