@@ -2,7 +2,7 @@
 # example:-
 family = ['selam','mahi','tesfsh'] # a variable is specified in a list
 family.append("ale") # a list method called append is used 
-print(family) # ale is also be printed in the list 
+print(family) # ale is also be printed in the list. 
 
 ## 2 clear():- remove all the elements from the list.
 # example:-
@@ -13,7 +13,7 @@ print(clothes) # [] is expected to be printed
 ## 3 insert():- inserts an element at a specified index
 # example:-
 phone = ['samsung',iphone',xiaomi'] # a variable is specified in a list
-phone.insert(1,'pixle') # a list method called insert is used
+phone.insert(1,'pixle') # a list method called insert is used.
 print(phone) # pixle is also be listed in the list in the second index
 
 ## 4 len():- is a list metod that return tehe length of the list
